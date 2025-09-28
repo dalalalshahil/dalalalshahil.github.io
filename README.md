@@ -1,2 +1,1 @@
-# dalalshahil
-My personal website using GitHub Pages
+# personal-website
