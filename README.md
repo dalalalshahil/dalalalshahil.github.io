@@ -1,2 +1,2 @@
-# dalalshahil.github.io
+# dalalshahil
 My personal website using GitHub Pages
